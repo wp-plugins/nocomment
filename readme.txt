@@ -1,6 +1,6 @@
 === noComment ===
 Contributors: pasxal
-Tags: noComment, comments
+Tags: noComment, comments, no comment, posts
 Requires at least: 2.8
 Tested up to: 3.0
 Stable tag: 1.0a

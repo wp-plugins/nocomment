@@ -1,7 +1,7 @@
 <?php  
 /*
 Plugin Name: noComment
-Plugin URI: http://adigit.gr/
+Plugin URI: http://adigit.gr/archives/205
 Description: The noComment Plugin. A plugin that shows you the post that noone wants to comment. :P
 Version: 1.0a
 Author: pasxal
